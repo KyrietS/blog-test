@@ -1,5 +1,6 @@
 ---
 title: Jak jest zbudowany system plików FAT
+layout: default
 navtitle: Second entry
 exceprt: Skrócony opis tego wpisu.
 root: ../../../
