@@ -1,7 +1,9 @@
 language: ruby
 rvm:
-  - 2.7.0
+  - 2.6.3
 sudo: false
+
+script: jekyll build
 
 deploy:
   provider: pages
