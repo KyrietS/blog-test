@@ -3,3 +3,4 @@ rvm:
   - 2.2.0
 sudo: false
 script: bundle exec rake deploy
+
