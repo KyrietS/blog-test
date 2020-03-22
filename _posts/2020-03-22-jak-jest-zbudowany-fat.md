@@ -1,5 +1,8 @@
 ---
 title: Jak jest zbudowany system plików FAT
+navtitle: Second entry
+exceprt: Skrócony opis tego wpisu.
+root: ../../../
 ---
 
 # Jak jest zbudowany system plików FAT
