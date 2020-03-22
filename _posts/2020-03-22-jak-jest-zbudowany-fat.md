@@ -1,5 +1,7 @@
 ---
+title: Jak jest zbudowany system plików FAT
 ---
+
 # Jak jest zbudowany system plików FAT
 
 W tym wpisie podstawowe zasady działania systemu plików z rodziny FAT. Jeśli jesteś ciekawy co się dzieje "pod maską", gdy dodajesz lub usuwasz plik na nośniku danych z systemem plików FAT, to zachęcam do lektury tego wpisu. Na przykładach i w praktyce pokażę jakie zmiany zachodzą na dysku podczas manipulacji plikami.
